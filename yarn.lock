@@ -654,14 +654,15 @@ hexo-theme-landscape@^1.0.0:
   resolved "https://registry.yarnpkg.com/hexo-theme-landscape/-/hexo-theme-landscape-1.0.0.tgz#43a549ebb2bea73196200ee4397feb764131a481"
   integrity sha512-bWQJWMqQI78wWiJPQZq5pJBH20TM442ShCaHGRetuEgMraxH0OKxB3NTupJzNEkzEk8DV2yrdizkXdKN6i501A==
 
-hexo-theme-sea@^0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/hexo-theme-sea/-/hexo-theme-sea-0.3.3.tgz#702e943d2a6fac704c8a3c7850ca5d65c444d676"
-  integrity sha512-SlCeNl5ZOt371sDXwl2VpFRPrhSGUz57RqqNUPqAxQFglUrbzd0bp6FsT/+rEDPn7SmGFCba4j1jT9v/W2nLyQ==
+hexo-theme-sea@^0.4.8:
+  version "0.4.8"
+  resolved "https://registry.yarnpkg.com/hexo-theme-sea/-/hexo-theme-sea-0.4.8.tgz#26388ad7fd485fdf71128bfda32ae0701460e891"
+  integrity sha512-SESgEGNWEcbkHNETCBcuf/W0S/uaOwbWa36+qIfM+ClLFrMraKR1cRrs3h/wrR/uiZccpMQGoI3EoDxBQrOKYw==
   dependencies:
     hexo "^7.2.0"
     hexo-renderer-ejs "^2.0.0"
     hexo-renderer-marked "^6.0.0"
+    hexo-renderer-stylus "^3.0.0"
 
 hexo-util@^3.0.1, hexo-util@^3.1.0, hexo-util@^3.3.0:
   version "3.3.0"
